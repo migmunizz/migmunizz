@@ -24,7 +24,7 @@ Tenho foco em desenvolvimento back-end em Java, buscando evoluir através de pro
 ### 👨‍💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,hibernate,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,js,hibernate,postgres" />
 </p>
 
 ### ⚙️ Ferramentas & Frameworks
@@ -59,7 +59,6 @@ Sistema em Java e PostgreSQL
 ---
 
 ## 📫 Contato
-🔗 LinkedIn: https://www.linkedin.com/in/miguel-rienzi-muniz-a07936392/
-📧 Email: **mrmuniz.contato@gmail.com**
 
-📧 Email: **mrmuniz.contato@gmail.com**
+📧 Email: **mrmuniz.contato@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/miguel-rienzi-muniz-a07936392/
