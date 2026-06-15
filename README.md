@@ -47,11 +47,11 @@ Tenho foco em desenvolvimento back-end em Java, buscando evoluir através de pro
 ## 📌 Projetos
 
 ### 🔹 Projeto 1
-Sistema em Java e PostgreSQL
+Sistema de Pedidos em SpringBoot com banco de dados PostgreSQL
 
 - CRUD completo
-- Integração com banco de dados usando Hibernate
-- Lógica de programação
+- Tratamento de excessões
+- Relacionamento de entidades
 - Back-end estruturado
 
 🔗 https://github.com/migmunizz/springboot-jpa
