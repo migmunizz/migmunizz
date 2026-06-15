@@ -1,12 +1,12 @@
-<h1 align="center">👋 Olá, eu sou Miguel Rienzi Muniz</h1>
+<h1 align="center">Miguel Rienzi Muniz</h1>
 
 <h3 align="center">
-💻 Desenvolvedor de Software | Estagiário de TI
+💻 Estudante de Tecnologia | Desenvolvedor de Software
 </h3>
 
 <p align="center">
 📍 São Paulo - SP <br>
-🎓 Desenvolvimento de Software Multiplataforma - FATEC SP
+🎓 Desenvolvimento de Software Multiplataforma - FATEC 
 </p>
 
 ---
