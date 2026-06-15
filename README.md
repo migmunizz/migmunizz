@@ -54,18 +54,11 @@ Sistema em Java e SQL
 - Lógica de programação
 - Back-end estruturado
 
-🔗 Em breve
+🔗 https://github.com/migmunizz/springboot-jpa
 
 ---
 
-### 🔹 Projeto 2
-Web com HTML, CSS, JS e Bootstrap
 
-- Interface responsiva
-- DOM manipulation
-- Layout moderno
-
-🔗 Em breve
 
 ---
 
