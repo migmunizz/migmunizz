@@ -24,13 +24,13 @@ Tenho foco em desenvolvimento back-end em Java, buscando evoluir através de pro
 ### 👨‍💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,hibernate,postgres" />
 </p>
 
 ### ⚙️ Ferramentas & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,bootstrap,git,docker" />
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap,git,docker" />
 </p>
 
 ---
@@ -47,10 +47,10 @@ Tenho foco em desenvolvimento back-end em Java, buscando evoluir através de pro
 ## 📌 Projetos
 
 ### 🔹 Projeto 1
-Sistema em Java e SQL
+Sistema em Java e PostgreSQL
 
 - CRUD completo
-- Integração com banco de dados
+- Integração com banco de dados usando Hibernate
 - Lógica de programação
 - Back-end estruturado
 
@@ -58,12 +58,8 @@ Sistema em Java e SQL
 
 ---
 
-
-
----
-
 ## 📫 Contato
-
+🔗 LinkedIn: https://www.linkedin.com/in/miguel-rienzi-muniz-a07936392/
 📧 Email: **mrmuniz.contato@gmail.com**
 
-💼 LinkedIn: https://www.linkedin.com/in/SEU-USUARIO
+📧 Email: **mrmuniz.contato@gmail.com**
