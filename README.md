@@ -15,7 +15,7 @@
 
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC São Paulo, atualmente no 2º semestre.
 
-Tenho foco em desenvolvimento back-end em Java, buscando evoluir através de projetos acadêmicos e pessoais. Atualmente procuro minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+Meu foco é em desenvolvimento back-end em Java, buscando evoluir através de projetos acadêmicos e pessoais. Atualmente procuro minha primeira oportunidade como estagiário ou desenvolvedor júnior.
 
 ---
 
